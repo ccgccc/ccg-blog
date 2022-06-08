@@ -3,7 +3,7 @@ layout:     post
 title:      "原创 Linux 宝典"
 date:       2022-06-05
 author:     CCG
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-linus-torvalds-linux-announcement.jpeg
 catalog:    true
 tags:
     - Linux

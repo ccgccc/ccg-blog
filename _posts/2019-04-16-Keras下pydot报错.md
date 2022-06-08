@@ -3,7 +3,7 @@ layout:     post
 title:      Keras 报错 - OSError-pydot failed to call GraphViz 解决办法与原因分析
 date:       2019-04-16
 author:     CCG
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keras-and-tensorflow.png
 catalog: true
 tags:
     - Keras

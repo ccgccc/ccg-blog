@@ -3,7 +3,7 @@ layout:     post
 title:      吴恩达deeplearning.ai深度学习课程空白作业
 date:       2019-04-07
 author:     CCG
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-andrew-ng-deep-learning-ai-coursera-course.jpeg
 catalog: true
 tags:
     - 吴恩达
@@ -38,9 +38,9 @@ tensorflow-estimator      1.13.0                   pypi_0    pypi
 
 
 ### 吴恩达深度学习课程地址：
->deeplearning.ai官网地址：https://www.deeplearning.ai/
->coursera地址：https://www.coursera.org/specializations/deep-learning
->网易视频地址：https://163.lu/nPtn42
+>deeplearning.ai官网地址：https://www.deeplearning.ai/  
+>coursera地址：https://www.coursera.org/specializations/deep-learning  
+>网易视频地址：https://163.lu/nPtn42  
 
 ### 深度学习课程目录
 

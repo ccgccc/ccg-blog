@@ -3,7 +3,7 @@ layout:     post
 title:      keras框架下使用Graphviz报错（jupyter环境）
 date:       2019-03-01
 author:     CCG
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keras-and-tensorflow.png
 catalog: true
 tags:
     - Keras
